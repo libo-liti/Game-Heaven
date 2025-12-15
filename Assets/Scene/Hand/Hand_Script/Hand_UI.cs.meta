@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7a76262af8f75d64fa1c2e25e345731e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newMaterials: {fileID: 2100000, guid: 9f2b36143d2b33c4c8c861ecbe1870a5, type: 2}
+  - scoreText: {instanceID: 0}
+  - scoreText2: {instanceID: 0}
+  - scoreText3: {instanceID: 0}
+  - gameoverUI: {fileID: 992965956459358808, guid: b6f728a04339ff9459e34447963fb430, type: 3}
+  - dataInputUI: {fileID: 2018364763975824957, guid: 7438929a1330b8f41bf4430fb589d8cc, type: 3}
+  - pauseUI: {fileID: 2112930517476623747, guid: a11c9c2d7cabe7c4cbba7c107a98d390, type: 3}
+  - inGameUI: {instanceID: 0}
+  - initialArrow1: {fileID: 162336299003454480, guid: 5d649c44dd4f90a4d8fd668387bc3511, type: 3}
+  - initialArrow2: {fileID: 2998786343075085157, guid: 094e47f83edeb4d44be98ca9977c8839, type: 3}
+  - initial1: {instanceID: 0}
+  - initial2: {instanceID: 0}
+  - initial3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

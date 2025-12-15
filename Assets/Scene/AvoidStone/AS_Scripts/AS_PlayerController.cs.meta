@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5159048d267e21e4fafa7a7456332e2b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fullHeartSprite: {fileID: -326435522, guid: 727171e88bc6fbb4687d28111a2c2816, type: 3}
+  - emptyHeartSprite: {fileID: 2146356886, guid: 727171e88bc6fbb4687d28111a2c2816, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
